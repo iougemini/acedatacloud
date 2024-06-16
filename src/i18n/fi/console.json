@@ -1,0 +1,42 @@
+{
+  "menu.orderList": {
+    "message": "Tilauslista",
+    "description": "Verkkosivuston valikossa oleva teksti, Tilaus tarkoittaa käyttäjän tilausta palvelun ostamiseksi"
+  },
+  "menu.applicationList": {
+    "message": "Sovelluslista",
+    "description": "Verkkosivuston valikossa oleva teksti, Sovellus tarkoittaa käyttäjän hakemusta palvelun käyttöön"
+  },
+  "menu.userProfile": {
+    "message": "Käyttäjäprofiili",
+    "description": "Verkkosivuston valikossa oleva teksti, Käyttäjäprofiili tarkoittaa käyttäjän profiilia"
+  },
+  "menu.idVerify": {
+    "message": "Henkilöllisyyden varmennus",
+    "description": "Verkkosivuston valikossa oleva teksti, Henkilöllisyyden varmennus tarkoittaa käyttäjän henkilöllisyyden varmennusta"
+  },
+  "menu.manageApplication": {
+    "message": "Sovelluksen hallinta",
+    "description": "Verkkosivuston valikossa oleva teksti, Sovelluksen hallinta tarkoittaa käyttäjän hakemuksen hallintaa"
+  },
+  "menu.distributionIndex": {
+    "message": "Suosittelutulot",
+    "description": "Verkkosivuston valikossa oleva teksti, Suosittelutulot tarkoittaa käyttäjän suosittelun tuottoja"
+  },
+  "menu.usageList": {
+    "message": "Käyttöhistoria",
+    "description": "Verkkosivuston valikossa oleva teksti, Käyttöhistoria tarkoittaa käyttäjän käytön historiaa API-palvelun käytöstä"
+  },
+  "menu.credentialIndex": {
+    "message": "Käyttöoikeustiedot",
+    "description": "Verkkosivuston valikossa oleva teksti, Käyttöoikeustiedot tarkoittaa käyttöoikeuksia API:lle"
+  },
+  "menu.manageOrder": {
+    "message": "Tilauksen hallinta",
+    "description": "Verkkosivuston valikossa oleva teksti, Tilauksen hallinta tarkoittaa käyttäjän tilauksen hallintaa, tilaus tarkoittaa käyttäjän tilausta palvelun ostamiseksi"
+  },
+  "menu.manageDistributionStatus": {
+    "message": "Jakelun hallinta",
+    "description": "Verkkosivuston valikossa oleva teksti, Jakelun hallinta tarkoittaa käyttäjän jakelutilan hallintaa, liittyy käyttäjän suosittelun tuottoihin"
+  }
+}

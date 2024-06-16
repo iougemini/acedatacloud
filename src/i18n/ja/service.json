@@ -1,0 +1,130 @@
+{
+  "button.learnMore": {
+    "message": "詳細を見る",
+    "description": "サービスについて詳しく学ぶためのボタンに表示されるテキスト。"
+  },
+  "button.apply": {
+    "message": "今すぐ申し込む",
+    "description": "サービスに申し込むためのボタンに表示されるテキスト。"
+  },
+  "button.introduction": {
+    "message": "サービス紹介",
+    "description": "サービス紹介を表示するためのボタンに表示されるテキスト。"
+  },
+  "button.apis": {
+    "message": "API説明",
+    "description": "API説明を表示するためのボタンに表示されるテキスト。"
+  },
+  "button.pricing": {
+    "message": "価格",
+    "description": "価格情報を表示するためのボタンに表示されるテキスト。"
+  },
+  "field.price": {
+    "message": "価格",
+    "description": "サービスの価格。"
+  },
+  "field.introduction": {
+    "message": "紹介",
+    "description": "サービスの紹介。"
+  },
+  "field.apis": {
+    "message": "API",
+    "description": "サービスのAPI。APIはオンラインサービスの形式です。"
+  },
+  "field.proxies": {
+    "message": "プロキシ",
+    "description": "サービスのプロキシ。プロキシはオンラインサービスの形式であり、データ転送に使用されるHTTPプロキシを意味します。"
+  },
+  "message.free": {
+    "message": "無料",
+    "description": "サービスが無料である場合に表示されるテキスト。つまり、サービスは無料で提供されています。"
+  },
+  "message.around": {
+    "message": "約",
+    "description": "価格が特定の値の周りにある場合に表示されるテキスト。"
+  },
+  "message.welcomeCredits": {
+    "message": "歓迎クレジット",
+    "description": "サービスが無料で歓迎クレジットを提供する場合に表示されるテキスト。"
+  },
+  "message.appliedCount": {
+    "message": "申込数",
+    "description": "申込数がカウントされる場合に表示されるテキスト。"
+  },
+  "message.indexTitle": {
+    "message": "デジタルサービスのスマートな選択肢",
+    "description": "インデックスページのタイトル。"
+  },
+  "message.indexSubtitle": {
+    "message": "標準化された優れたサービスで仕事と生活を支えます。",
+    "description": "インデックスページのサブタイトル。"
+  },
+  "message.fromPrice": {
+    "message": "価格：",
+    "description": "価格の前に表示されるテキスト。"
+  },
+  "message.packages": {
+    "message": "クレジットのためのさまざまなパッケージを提供しています。購入するパッケージが多いほど、より多くの割引が得られます。",
+    "description": "サービスがクレジットのためのパッケージを提供する場合に表示されるテキスト。"
+  },
+  "message.offer": {
+    "message": "オファー",
+    "description": "サービスがオファーを提供する場合に表示されるテキスト。"
+  },
+  "message.partnersTitle": {
+    "message": "主要なパートナーに信頼されています",
+    "description": "パートナーセクションのタイトル。"
+  },
+  "title.apis": {
+    "message": "API",
+    "description": "サービスのAPI。APIはオンラインサービスの形式です。"
+  },
+  "title.proxies": {
+    "message": "プロキシ",
+    "description": "サービスのプロキシ。プロキシはオンラインサービスの形式であり、データ転送に使用されるHTTPプロキシを意味します。"
+  },
+  "title.packages": {
+    "message": "パッケージ",
+    "description": "サービスのパッケージ。パッケージはクレジットを購入するために使用されます。たとえば、サービスが3つのパッケージを提供しており、100クレジット用に100ドル、200クレジット用に200ドル、300クレジット用に300ドルです。"
+  },
+  "unit.credit": {
+    "message": "クレジット",
+    "description": "APIサービスで使用される仮想通貨のクレジットを意味します。"
+  },
+  "unit.Credit": {
+    "message": "クレジット",
+    "description": "APIサービスで使用される仮想通貨のクレジットを意味します。これは大文字形式です。"
+  },
+  "unit.credits": {
+    "message": "クレジット",
+    "description": "APIサービスで使用される仮想通貨のクレジットを意味します。これは複数形です。"
+  },
+  "unit.Credits": {
+    "message": "クレジット",
+    "description": "APIサービスで使用される仮想通貨のクレジットを意味します。これは大文字形式および複数形です。"
+  },
+  "unit.call": {
+    "message": "コール",
+    "description": "APIサービスが呼び出された回数を意味します。"
+  },
+  "unit.Call": {
+    "message": "コール",
+    "description": "APIサービスが呼び出された回数を意味します。これは大文字形式です。"
+  },
+  "unit.calls": {
+    "message": "コール",
+    "description": "APIサービスが呼び出された回数を意味します。これは複数形です。"
+  },
+  "unit.Calls": {
+    "message": "コール",
+    "description": "APIサービスが呼び出された回数を意味します。これは大文字形式および複数形です。"
+  },
+  "unit.MB": {
+    "message": "MB",
+    "description": "MBはデジタル情報の記憶の単位であるメガバイトを意味します。"
+  },
+  "unit.GB": {
+    "message": "GB",
+    "description": "GBはデジタル情報の記憶の単位であるギガバイトを意味します。"
+  }
+}

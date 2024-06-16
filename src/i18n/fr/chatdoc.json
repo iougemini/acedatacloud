@@ -1,0 +1,198 @@
+{
+  "button.uploadDocuments": {
+    "message": "Télécharger des documents",
+    "description": "Texte sur le bouton, qui permet à l'utilisateur de télécharger des documents"
+  },
+  "field.fileName": {
+    "message": "Nom du fichier",
+    "description": "Nom du fichier pour le document téléchargé"
+  },
+  "field.createdAt": {
+    "message": "Heure de création",
+    "description": "Heure à laquelle le document a été téléchargé"
+  },
+  "field.fileExtension": {
+    "message": "Type de fichier",
+    "description": "Type de fichier pour le document téléchargé"
+  },
+  "field.fileUrl": {
+    "message": "Lien du fichier",
+    "description": "Lien vers le document téléchargé"
+  },
+  "field.fileSize": {
+    "message": "Taille du fichier",
+    "description": "Taille du document téléchargé"
+  },
+  "field.state": {
+    "message": "Statut",
+    "description": "État du traitement du document"
+  },
+  "field.stateProcessing": {
+    "message": "Apprentissage",
+    "description": "Le document est en cours de traitement"
+  },
+  "field.stateCompleted": {
+    "message": "Apprentissage terminé",
+    "description": "Le document a été traité avec succès"
+  },
+  "field.stateFailed": {
+    "message": "Échec de l'apprentissage",
+    "description": "Échec du traitement du document"
+  },
+  "field.name": {
+    "message": "Nom",
+    "description": "Nom du document"
+  },
+  "field.description": {
+    "message": "Description",
+    "description": "Description du document"
+  },
+  "message.introductionForKnowledge": {
+    "message": "Les documents peuvent être ajoutés à la base de connaissances, et lorsque le robot répond, il peut utiliser les connaissances du référentiel pour répondre.",
+    "description": "Message d'introduction pour la base de connaissances"
+  },
+  "message.introductionForRepository": {
+    "message": "La base de connaissances est une collection de documents où vous pouvez ajouter des documents. Lorsque le robot répond, il répondra à partir des documents de la base de connaissances.",
+    "description": "Message d'introduction pour la base de connaissances"
+  },
+  "message.uploadDocumentsExceed": {
+    "message": "La quantité de documents téléchargés dépasse la limite",
+    "description": "Message d'erreur lorsque la quantité de documents téléchargés dépasse la limite"
+  },
+  "message.uploadDocumentsError": {
+    "message": "Échec du téléchargement du document",
+    "description": "Message d'erreur en cas d'échec du téléchargement du document"
+  },
+  "message.uploadDocumentsSuccess": {
+    "message": "Téléchargement du document réussi",
+    "description": "Message de réussite lorsque le téléchargement du document est réussi"
+  },
+  "message.createDocumentSuccess": {
+    "message": "Création du document réussie",
+    "description": "Message de réussite lorsque la création du document est réussie"
+  },
+  "message.startCreateDocument": {
+    "message": "Début de l'apprentissage du document...",
+    "description": "Message au début de l'apprentissage du document"
+  },
+  "message.createDocumentError": {
+    "message": "Échec de l'apprentissage du document",
+    "description": "Message d'erreur en cas d'échec de l'apprentissage du document"
+  },
+  "message.dragOrClickToUpload": {
+    "message": "Faites glisser ou cliquez pour télécharger le document",
+    "description": "Message pour faire glisser ou cliquer pour télécharger le document"
+  },
+  "message.learningDocument": {
+    "message": "Apprentissage en cours, veuillez patienter...",
+    "description": "Message lors de l'apprentissage du document"
+  },
+  "message.startNewChat": {
+    "message": "Démarrer un nouveau chat",
+    "description": "Message pour démarrer un nouveau chat"
+  },
+  "message.errorApiError": {
+    "message": "Échec de la réponse, veuillez réessayer plus tard",
+    "description": "Message d'erreur en cas d'échec de la réponse"
+  },
+  "message.errorBadRequest": {
+    "message": "Le contenu de la demande n'est pas correctement formaté, veuillez reformuler la question",
+    "description": "Message d'erreur lorsque le contenu de la demande n'est pas correctement formaté"
+  },
+  "message.errorNoConversation": {
+    "message": "Le contenu de la conversation n'existe pas ou a expiré, veuillez démarrer une nouvelle conversation",
+    "description": "Message d'erreur lorsque le contenu de la conversation n'existe pas ou a expiré"
+  },
+  "message.errorContentTooLarge": {
+    "message": "Le contenu de la question est trop long, veuillez le raccourcir et réessayer",
+    "description": "Message d'erreur lorsque le contenu de la question est trop long"
+  },
+  "message.errorTooManyRequests": {
+    "message": "Votre opération est trop fréquente, veuillez réessayer plus tard",
+    "description": "Message d'erreur lorsque l'opération est trop fréquente"
+  },
+  "message.errorUsedUp": {
+    "message": "Votre limite d'utilisation du forfait a été atteinte, veuillez acheter plus d'utilisation pour continuer",
+    "description": "Message d'erreur lorsque la limite d'utilisation du forfait a été atteinte"
+  },
+  "message.errorUnknown": {
+    "message": "Une erreur serveur inconnue s'est produite, veuillez réessayer plus tard ou contacter le service client",
+    "description": "Message d'erreur en cas d'erreur serveur inconnue"
+  },
+  "message.errorTimeout": {
+    "message": "Le délai de réponse à la question a expiré, veuillez réessayer plus tard",
+    "description": "Message d'erreur lorsque le délai de réponse à la question a expiré"
+  },
+  "message.errorNotApplied": {
+    "message": "Vous n'avez pas encore demandé ce service, veuillez faire une demande avant de continuer à poser des questions",
+    "description": "Message d'erreur lorsque l'utilisateur n'a pas encore demandé ce service"
+  },
+  "message.confirmDelete": {
+    "message": "Confirmer la suppression",
+    "description": "Message pour confirmer la suppression"
+  },
+  "message.howToUse": {
+    "message": "Appuyez sur Maj+Entrée pour passer à la ligne",
+    "description": "Message pour montrer comment passer à la ligne"
+  },
+  "message.createRepositorySuccess": {
+    "message": "Base de connaissances créée avec succès",
+    "description": "Message de réussite lorsque la base de connaissances est créée avec succès"
+  },
+  "message.createRepositoryFailed": {
+    "message": "Échec de la création de la base de connaissances",
+    "description": "Message d'erreur en cas d'échec de la création de la base de connaissances"
+  },
+  "message.deleteRepositorySuccess": {
+    "message": "Base de connaissances supprimée avec succès",
+    "description": "Message de réussite lorsque la base de connaissances est supprimée avec succès"
+  },
+  "message.deleteDocumentSuccess": {
+    "message": "Document supprimé avec succès",
+    "description": "Message de réussite lorsque le document est supprimé avec succès"
+  },
+  "message.currentRepository": {
+    "message": "Base de connaissances actuelle",
+    "description": "Message pour montrer la base de connaissances actuelle"
+  },
+  "message.nameRequired": {
+    "message": "Le nom ne peut pas être vide",
+    "description": "Message d'erreur lorsque le nom est vide"
+  },
+  "message.inputRepositoryName": {
+    "message": "Nom de la base de connaissances",
+    "description": "Placeholder pour le nom de la base de connaissances"
+  },
+  "message.inputRepositoryDescription": {
+    "message": "Décrivez votre base de connaissances en une phrase",
+    "description": "Placeholder pour la description de la base de connaissances"
+  },
+  "message.supportedFiles": {
+    "message": "Types de fichiers pris en charge : .docx, .doc, .pdf, .txt, .csv, .enex, .epub, .eml, .html, .htm, .shtml, .md, .odt, .ppt, .pptx",
+    "description": "Message pour montrer les types de fichiers pris en charge"
+  },
+  "nav.chat": {
+    "message": "Chat",
+    "description": "Élément de navigation pour le chat"
+  },
+  "nav.setting": {
+    "message": "Paramètre",
+    "description": "Élément de navigation pour les paramètres"
+  },
+  "nav.manage": {
+    "message": "Gérer",
+    "description": "Élément de navigation pour gérer"
+  },
+  "title.manage": {
+    "message": "Gérer les bases de connaissances",
+    "description": "Titre pour gérer la base de connaissances"
+  },
+  "title.createRepository": {
+    "message": "Créer une base de connaissances",
+    "description": "Titre pour créer une base de connaissances"
+  },
+  "title.repositories": {
+    "message": "Liste des bases de connaissances",
+    "description": "Titre pour la liste des bases de connaissances"
+  }
+}

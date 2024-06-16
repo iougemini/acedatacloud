@@ -1,0 +1,114 @@
+{
+  "entity.requestQueries": {
+    "message": "URLパラメータ",
+    "description": "URLに渡されるパラメータです。'?'で区切られ、'&'で区切られます。"
+  },
+  "entity.requestBody": {
+    "message": "リクエストボディ",
+    "description": "これはリクエストの本文です。通常はPOSTおよびPUTリクエストで使用されます。"
+  },
+  "entity.responseBody": {
+    "message": "レスポンスボディ",
+    "description": "これはレスポンスの本文です。通常はJSON形式です。"
+  },
+  "entity.requestHeaders": {
+    "message": "リクエストヘッダ",
+    "description": "リクエストで渡されるヘッダです。通常は認証に使用されます。"
+  },
+  "entity.requestHeader": {
+    "message": "リクエストヘッダ",
+    "description": "リクエストで渡されるヘッダです。通常は認証に使用されます。"
+  },
+  "entity.requestQuery": {
+    "message": "URLパラメータ",
+    "description": "URLに渡されるパラメータです。'?'で区切られ、'&'で区切られます。"
+  },
+  "entity.responseHeaders": {
+    "message": "レスポンスヘッダ",
+    "description": "レスポンスで渡されるヘッダです。通常は認証に使用されます。"
+  },
+  "entity.response": {
+    "message": "レスポンス",
+    "description": "サーバーから返されるレスポンスです。"
+  },
+  "entity.success": {
+    "message": "成功",
+    "description": "リクエストが成功した場合に返されるレスポンスです。"
+  },
+  "entity.failure": {
+    "message": "失敗",
+    "description": "リクエストが失敗した場合に返されるレスポンスです。"
+  },
+  "entity.responseExample": {
+    "message": "例",
+    "description": "サーバーから返されるレスポンスの例です。"
+  },
+  "entity.authentication": {
+    "message": "認証",
+    "description": "リクエストを行うために必要な認証です。"
+  },
+  "message.free": {
+    "message": "無料",
+    "description": "価格が無料であり、APIサービスの利用にはクレジットやお金が必要ありません"
+  },
+  "message.appliedCount": {
+    "message": "申請回数",
+    "description": "適用されたAPIサービスの回数"
+  },
+  "message.firstFree": {
+    "message": "初回無料",
+    "description": "最初のAPIサービスが無料であり、クレジットやお金が必要ありません"
+  },
+  "message.custom": {
+    "message": "指定された金額",
+    "description": "価格が指定されており、APIサービスの利用には指定されたクレジットやお金が必要です"
+  },
+  "message.present": {
+    "message": "プレゼント",
+    "description": "APIサービスを初めて使用する際にクレジットをプレゼントします"
+  },
+  "message.around": {
+    "message": "おおよそ",
+    "description": "価格はおおよそであり、実際の価格は異なる場合があります"
+  },
+  "message.successRate15min": {
+    "message": "リアルタイム成功率",
+    "description": "過去15分間のAPIサービスのリアルタイム成功率"
+  },
+  "message.ySuccessRate": {
+    "message": "成功率（100%）",
+    "description": "APIサービスの成功率"
+  },
+  "message.xMinutes": {
+    "message": "時間（分）",
+    "description": "分単位の時間"
+  },
+  "message.streamUsage": {
+    "message": "注意：ストリーミングリクエストの場合、上記のコードは完全に適用されない場合があります。修正についてはドッキングドキュメントを参照してください。",
+    "description": "ストリーミングリクエストの場合、上記のコードは完全に適用されない場合があります。修正についてはドッキングドキュメントを参照してください。"
+  },
+  "message.alphaStage": {
+    "message": "このAPIはアルファステージです。これは初期のプレビューバージョンであり、潜在的な不安定性があり、API形式が大幅に変更される可能性があります。本番環境での使用は推奨されません。現在の価格は比較的低く、将来的には価格が大幅に変更される可能性があります。",
+    "description": "このAPIはアルファステージです。これは初期のプレビューバージョンであり、潜在的な不安定性があり、API形式が大幅に変更される可能性があります。本番環境での使用は推奨されません。現在の価格は比較的低く、将来的には価格が大幅に変更される可能性があります。"
+  },
+  "message.betaStage": {
+    "message": "このAPIはベータステージです。API形式はあまり変更されませんが、潜在的な不安定性がありますので、本番環境で注意して使用してください。現在の価格は比較的低く、将来的には価格が適度に変更される可能性があります。",
+    "description": "このAPIはベータステージです。API形式はあまり変更されませんが、潜在的な不安定性がありますので、本番環境で注意して使用してください。現在の価格は比較的低く、将来的には価格が適度に変更される可能性があります。"
+  },
+  "unit.GB": {
+    "message": "GB",
+    "description": "ギガバイト、デジタル情報の記憶単位"
+  },
+  "unit.MB": {
+    "message": "MB",
+    "description": "メガバイト、デジタル情報の記憶単位"
+  },
+  "unit.KB": {
+    "message": "KB",
+    "description": "キロバイト、デジタル情報の記憶単位"
+  },
+  "unit.B": {
+    "message": "B",
+    "description": "バイト、デジタル情報の記憶単位"
+  }
+}

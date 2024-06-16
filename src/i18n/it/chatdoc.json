@@ -1,0 +1,198 @@
+{
+  "button.uploadDocuments": {
+    "message": "Carica Documenti",
+    "description": "Testo nel pulsante, che consente all'utente di caricare documenti"
+  },
+  "field.fileName": {
+    "message": "Nome File",
+    "description": "Nome del file per il documento caricato"
+  },
+  "field.createdAt": {
+    "message": "Ora di Creazione",
+    "description": "Ora in cui il documento è stato caricato"
+  },
+  "field.fileExtension": {
+    "message": "Tipo di File",
+    "description": "Tipo di file per il documento caricato"
+  },
+  "field.fileUrl": {
+    "message": "Link al File",
+    "description": "Link al documento caricato"
+  },
+  "field.fileSize": {
+    "message": "Dimensione del File",
+    "description": "Dimensione del documento caricato"
+  },
+  "field.state": {
+    "message": "Stato",
+    "description": "Stato dell'elaborazione del documento"
+  },
+  "field.stateProcessing": {
+    "message": "Elaborazione in corso",
+    "description": "Il documento è in fase di elaborazione"
+  },
+  "field.stateCompleted": {
+    "message": "Elaborazione Completata",
+    "description": "Il documento è stato elaborato con successo"
+  },
+  "field.stateFailed": {
+    "message": "Elaborazione Fallita",
+    "description": "Elaborazione del documento fallita"
+  },
+  "field.name": {
+    "message": "Nome",
+    "description": "Nome del documento"
+  },
+  "field.description": {
+    "message": "Descrizione",
+    "description": "Descrizione del documento"
+  },
+  "message.introductionForKnowledge": {
+    "message": "I documenti possono essere aggiunti alla base di conoscenza e, quando il robot risponde, può utilizzare la conoscenza nel repository per rispondere.",
+    "description": "Messaggio introduttivo per la base di conoscenza"
+  },
+  "message.introductionForRepository": {
+    "message": "La base di conoscenza è una raccolta di documenti in cui è possibile aggiungere documenti. Quando il robot risponde, risponderà dai documenti presenti nella base di conoscenza.",
+    "description": "Messaggio introduttivo per la base di conoscenza"
+  },
+  "message.uploadDocumentsExceed": {
+    "message": "La quantità di documenti caricati supera il limite",
+    "description": "Messaggio di errore quando la quantità di documenti caricati supera il limite"
+  },
+  "message.uploadDocumentsError": {
+    "message": "Impossibile caricare il documento",
+    "description": "Messaggio di errore in caso di impossibilità di caricare il documento"
+  },
+  "message.uploadDocumentsSuccess": {
+    "message": "Caricamento del documento riuscito",
+    "description": "Messaggio di successo quando il caricamento del documento ha avuto successo"
+  },
+  "message.createDocumentSuccess": {
+    "message": "Creazione del documento riuscita",
+    "description": "Messaggio di successo quando la creazione del documento ha avuto successo"
+  },
+  "message.startCreateDocument": {
+    "message": "Inizio dell'apprendimento del documento...",
+    "description": "Messaggio di avvio dell'apprendimento del documento"
+  },
+  "message.createDocumentError": {
+    "message": "Impossibile apprendere il documento",
+    "description": "Messaggio di errore in caso di impossibilità di apprendere il documento"
+  },
+  "message.dragOrClickToUpload": {
+    "message": "Trascina o clicca per caricare il documento",
+    "description": "Messaggio per trascinare o cliccare per caricare il documento"
+  },
+  "message.learningDocument": {
+    "message": "Apprendimento in corso, attendere...",
+    "description": "Messaggio durante l'apprendimento del documento"
+  },
+  "message.startNewChat": {
+    "message": "Inizia nuova chat",
+    "description": "Messaggio per avviare una nuova chat"
+  },
+  "message.errorApiError": {
+    "message": "Impossibile rispondere, riprova più tardi",
+    "description": "Messaggio di errore in caso di impossibilità di rispondere"
+  },
+  "message.errorBadRequest": {
+    "message": "Il contenuto della richiesta non è formattato correttamente, si prega di ripetere la richiesta",
+    "description": "Messaggio di errore quando il contenuto della richiesta non è formattato correttamente"
+  },
+  "message.errorNoConversation": {
+    "message": "Il contenuto della conversazione non esiste o è scaduto, si prega di avviare una nuova conversazione",
+    "description": "Messaggio di errore quando il contenuto della conversazione non esiste o è scaduto"
+  },
+  "message.errorContentTooLarge": {
+    "message": "Il contenuto della domanda è troppo lungo, si prega di accorciarlo e riprovare",
+    "description": "Messaggio di errore quando il contenuto della domanda è troppo lungo"
+  },
+  "message.errorTooManyRequests": {
+    "message": "La tua operazione è troppo frequente, si prega di riprovare più tardi",
+    "description": "Messaggio di errore quando l'operazione è troppo frequente"
+  },
+  "message.errorUsedUp": {
+    "message": "Il limite di utilizzo del tuo pacchetto è stato raggiunto, si prega di acquistare più utilizzo per continuare",
+    "description": "Messaggio di errore quando il limite di utilizzo del pacchetto è stato raggiunto"
+  },
+  "message.errorUnknown": {
+    "message": "Si è verificato un errore sconosciuto sul server, si prega di riprovare più tardi o contattare l'assistenza clienti",
+    "description": "Messaggio di errore quando si verifica un errore sconosciuto sul server"
+  },
+  "message.errorTimeout": {
+    "message": "Timeout nella risposta alla domanda, si prega di riprovare più tardi",
+    "description": "Messaggio di errore quando scade il timeout nella risposta alla domanda"
+  },
+  "message.errorNotApplied": {
+    "message": "Non hai ancora richiesto questo servizio, si prega di fare domanda prima di continuare a chiedere",
+    "description": "Messaggio di errore quando l'utente non ha ancora richiesto questo servizio"
+  },
+  "message.confirmDelete": {
+    "message": "Conferma eliminazione",
+    "description": "Messaggio per confermare l'eliminazione"
+  },
+  "message.howToUse": {
+    "message": "Premi Maiusc+Invio per andare a capo",
+    "description": "Messaggio per mostrare come andare a capo"
+  },
+  "message.createRepositorySuccess": {
+    "message": "Base di conoscenza creata con successo",
+    "description": "Messaggio di successo quando la base di conoscenza è stata creata con successo"
+  },
+  "message.createRepositoryFailed": {
+    "message": "Impossibile creare la base di conoscenza",
+    "description": "Messaggio di errore in caso di impossibilità di creare la base di conoscenza"
+  },
+  "message.deleteRepositorySuccess": {
+    "message": "Base di conoscenza eliminata con successo",
+    "description": "Messaggio di successo quando la base di conoscenza è stata eliminata con successo"
+  },
+  "message.deleteDocumentSuccess": {
+    "message": "Documento eliminato con successo",
+    "description": "Messaggio di successo quando il documento è stato eliminato con successo"
+  },
+  "message.currentRepository": {
+    "message": "Base di conoscenza attuale",
+    "description": "Messaggio per mostrare la base di conoscenza attuale"
+  },
+  "message.nameRequired": {
+    "message": "Il nome non può essere vuoto",
+    "description": "Messaggio di errore quando il nome è vuoto"
+  },
+  "message.inputRepositoryName": {
+    "message": "Nome della base di conoscenza",
+    "description": "Segnaposto per il nome della base di conoscenza"
+  },
+  "message.inputRepositoryDescription": {
+    "message": "Descrivi la tua base di conoscenza in una frase",
+    "description": "Segnaposto per la descrizione della base di conoscenza"
+  },
+  "message.supportedFiles": {
+    "message": "Tipi di file supportati: .docx, .doc, .pdf, .txt, .csv, .enex, .epub, .eml, .html, .htm, .shtml, .md, .odt, .ppt, .pptx",
+    "description": "Messaggio per mostrare i tipi di file supportati"
+  },
+  "nav.chat": {
+    "message": "Chat",
+    "description": "Elemento di navigazione per la chat"
+  },
+  "nav.setting": {
+    "message": "Impostazioni",
+    "description": "Elemento di navigazione per le impostazioni"
+  },
+  "nav.manage": {
+    "message": "Gestisci",
+    "description": "Elemento di navigazione per la gestione"
+  },
+  "title.manage": {
+    "message": "Gestisci Repository",
+    "description": "Titolo per gestire la base di conoscenza"
+  },
+  "title.createRepository": {
+    "message": "Crea Repository",
+    "description": "Titolo per creare la base di conoscenza"
+  },
+  "title.repositories": {
+    "message": "Elenco delle Basi di Conoscenza",
+    "description": "Titolo per l'elenco delle basi di conoscenza"
+  }
+}

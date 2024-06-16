@@ -1,0 +1,38 @@
+{
+  "field.createdAt": {
+    "message": "Tiempo de Uso",
+    "description": "La hora en que se creó el registro de uso."
+  },
+  "field.statusCode": {
+    "message": "Código de Estado",
+    "description": "El código de estado del registro de uso."
+  },
+  "field.application": {
+    "message": "Aplicación",
+    "description": "La aplicación del servicio."
+  },
+  "field.status": {
+    "message": "Estado",
+    "description": "El estado de la aplicación."
+  },
+  "field.api": {
+    "message": "API",
+    "description": "La API del servicio."
+  },
+  "field.usedAmount": {
+    "message": "Cantidad Utilizada",
+    "description": "La cantidad del recurso que fue utilizada."
+  },
+  "field.deductedAmount": {
+    "message": "Cantidad Deducida",
+    "description": "La cantidad del recurso que fue deducida."
+  },
+  "field.remainingAmount": {
+    "message": "Cantidad Restante",
+    "description": "La cantidad del recurso que queda."
+  },
+  "field.metadata": {
+    "message": "Metadatos",
+    "description": "Los metadatos del registro de uso."
+  }
+}

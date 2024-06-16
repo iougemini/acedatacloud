@@ -1,0 +1,138 @@
+{
+  "button.pay": {
+    "message": "Maksa",
+    "description": "Nappiteksti, jota käytetään tilauksen maksamiseen."
+  },
+  "button.continuePay": {
+    "message": "Jatka maksua",
+    "description": "Nappiteksti, jota käytetään tilauksen maksamisen jatkamiseen."
+  },
+  "button.checkDetail": {
+    "message": "Tarkista tiedot",
+    "description": "Nappiteksti, jota käytetään tilauksen tietojen tarkistamiseen."
+  },
+  "button.query": {
+    "message": "Kysely",
+    "description": "Nappiteksti, jota käytetään tilauksen tiedusteluun."
+  },
+  "button.finish": {
+    "message": "Viimeistele manuaalisesti",
+    "description": "Nappiteksti, jota käytetään tilauksen viimeistelyyn manuaalisesti."
+  },
+  "button.update": {
+    "message": "Päivitä",
+    "description": "Nappiteksti, jota käytetään tilauksen päivittämiseen."
+  },
+  "field.id": {
+    "message": "Tilausnumero",
+    "description": "Tilauksen tunnusnumero."
+  },
+  "field.amount": {
+    "message": "Määrä",
+    "description": "Tilauksen hyvitysmäärä."
+  },
+  "field.price": {
+    "message": "Määrä",
+    "description": "Tilauksen hyvitysmäärä."
+  },
+  "field.description": {
+    "message": "Tilauksen kuvaus",
+    "description": "Tilauksen kuvaus."
+  },
+  "field.state": {
+    "message": "Tila",
+    "description": "Tilauksen tila."
+  },
+  "field.createdAt": {
+    "message": "Luontiaika",
+    "description": "Tilauksen luontiaika."
+  },
+  "field.service": {
+    "message": "Palvelun nimi",
+    "description": "Palvelun nimi."
+  },
+  "field.payWay": {
+    "message": "Maksutapa",
+    "description": "Tilauksen maksutapa."
+  },
+  "field.api": {
+    "message": "API",
+    "description": "API on eräänlainen verkkopalvelu."
+  },
+  "field.proxy": {
+    "message": "Välityspalvelin",
+    "description": "Välityspalvelin on eräänlainen verkkopalvelu, joka tarkoittaa HTTP-välityspalvelinta tietojen siirtoa varten."
+  },
+  "message.paidSuccessfully": {
+    "message": "Maksu onnistui",
+    "description": "Onnistuneen maksun viesti."
+  },
+  "message.orderExpired": {
+    "message": "Tilaus vanhentunut, luo uusi tilaus maksamista varten.",
+    "description": "Vanhentuneen tilauksen viesti."
+  },
+  "message.createFailed": {
+    "message": "Luominen epäonnistui",
+    "description": "Epäonnistuneen luonnin viesti."
+  },
+  "message.wechatPayHelp": {
+    "message": "Avaa WeChat puhelimessasi, skannaa suorittaaksesi maksun",
+    "description": "WeChat-maksun ohjeviesti."
+  },
+  "message.free": {
+    "message": "Ilmainen",
+    "description": "Ilmaisen tilauksen viesti."
+  },
+  "message.buyInExternalUrl": {
+    "message": "Täydennä maksu ulkoisessa linkissä",
+    "description": "Ulkoisen linkin maksuviesti."
+  },
+  "message.updateFailed": {
+    "message": "Päivitys epäonnistui",
+    "description": "Epäonnistuneen päivityksen viesti."
+  },
+  "message.updateSuccessfully": {
+    "message": "Päivitys onnistui",
+    "description": "Onnistuneen päivityksen viesti."
+  },
+  "message.confirmFinish": {
+    "message": "Tämä toimenpide asettaa tilauksen manuaalisesti maksutilaan ja viimeistelee jakeluprosessin, eikä sitä voi perua. Vahvista, että asiakas on suorittanut maksun. Haluatko jatkaa?",
+    "description": "Vahvistusviesti viimeistelylle."
+  },
+  "state.pending": {
+    "message": "Odottaa maksua",
+    "description": "Tilauksen tila, mikä tarkoittaa, että tämä tilaus odottaa vielä käyttäjän maksua."
+  },
+  "state.paid": {
+    "message": "Maksettu",
+    "description": "Tilauksen tila, mikä tarkoittaa, että tämä tilaus on maksettu."
+  },
+  "state.expired": {
+    "message": "Maksuaika umpeutunut",
+    "description": "Tilauksen tila, mikä tarkoittaa, että tämä tilaus on vanhentunut."
+  },
+  "state.failed": {
+    "message": "Maksu epäonnistui",
+    "description": "Tilauksen tila, mikä tarkoittaa, että tämä tilaus on epäonnistunut."
+  },
+  "title.info": {
+    "message": "Tilauksen tiedot",
+    "description": "Otsikko, joka käytetään sivuston otsikkona, tarkoittaa tilaustietoja."
+  },
+  "title.wechatPay": {
+    "message": "WeChat-maksu",
+    "description": "Otsikko, joka käytetään sivuston otsikkona, tarkoittaa WeChat-maksua."
+  },
+  "title.aliPay": {
+    "message": "Alipay",
+    "description": "Otsikko, joka käytetään sivuston otsikkona, tarkoittaa Alipay-maksua, Alipay-maksu on eräänlainen verkkomaksu."
+  },
+  "title.stripe": {
+    "message": "Stripe",
+    "description": "Otsikko, joka käytetään sivuston otsikkona, tarkoittaa Stripe-maksua, Stripe-maksu on eräänlainen verkkomaksu."
+  },
+  "title.manageOrder": {
+    "message": "Hallinnoi tilausta",
+    "description": "Otsikko, joka käytetään sivuston otsikkona, tarkoittaa tilauksen hallintaa."
+  }
+}

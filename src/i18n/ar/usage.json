@@ -1,0 +1,38 @@
+{
+  "field.createdAt": {
+    "message": "وقت الاستخدام",
+    "description": "الوقت الذي تم فيه إنشاء سجل الاستخدام."
+  },
+  "field.statusCode": {
+    "message": "كود الحالة",
+    "description": "كود الحالة لسجل الاستخدام."
+  },
+  "field.application": {
+    "message": "التطبيق",
+    "description": "التطبيق المستخدم للخدمة."
+  },
+  "field.status": {
+    "message": "الحالة",
+    "description": "حالة التطبيق."
+  },
+  "field.api": {
+    "message": "واجهة برمجة التطبيقات (API)",
+    "description": "واجهة برمجة التطبيقات للخدمة."
+  },
+  "field.usedAmount": {
+    "message": "الكمية المستخدمة",
+    "description": "كمية المورد التي تم استخدامها."
+  },
+  "field.deductedAmount": {
+    "message": "الكمية المخصومة",
+    "description": "كمية المورد التي تم خصمها."
+  },
+  "field.remainingAmount": {
+    "message": "الكمية المتبقية",
+    "description": "كمية المورد المتبقية."
+  },
+  "field.metadata": {
+    "message": "البيانات الوصفية",
+    "description": "البيانات الوصفية لسجل الاستخدام."
+  }
+}

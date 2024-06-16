@@ -1,0 +1,130 @@
+{
+  "button.learnMore": {
+    "message": "Saiba mais",
+    "description": "O texto exibido no botão para saber mais sobre o serviço."
+  },
+  "button.apply": {
+    "message": "Aplicar agora",
+    "description": "O texto exibido no botão para se candidatar ao serviço."
+  },
+  "button.introduction": {
+    "message": "Introdução ao serviço",
+    "description": "O texto exibido no botão para visualizar a introdução do serviço."
+  },
+  "button.apis": {
+    "message": "Descrição da API",
+    "description": "O texto exibido no botão para visualizar a descrição da API."
+  },
+  "button.pricing": {
+    "message": "Preços",
+    "description": "O texto exibido no botão para visualizar as informações de preços."
+  },
+  "field.price": {
+    "message": "Preço",
+    "description": "O preço do serviço."
+  },
+  "field.introduction": {
+    "message": "Introdução",
+    "description": "A introdução do serviço."
+  },
+  "field.apis": {
+    "message": "API",
+    "description": "A API do serviço, a API é uma forma de serviço online."
+  },
+  "field.proxies": {
+    "message": "Proxy",
+    "description": "O proxy do serviço, o proxy é uma forma de serviço online, significa o proxy HTTP usado para transferir os dados."
+  },
+  "message.free": {
+    "message": "Grátis",
+    "description": "O texto exibido quando o serviço é gratuito, o que significa que o serviço é gratuito."
+  },
+  "message.around": {
+    "message": "Por volta de",
+    "description": "O texto exibido quando o preço está por volta de um certo valor."
+  },
+  "message.welcomeCredits": {
+    "message": "Créditos de boas-vindas",
+    "description": "O texto exibido quando o serviço fornece créditos de boas-vindas gratuitos."
+  },
+  "message.appliedCount": {
+    "message": "Número de candidaturas",
+    "description": "O texto exibido quando o número de candidaturas é contado."
+  },
+  "message.indexTitle": {
+    "message": "Sua escolha inteligente para serviços digitais",
+    "description": "O título da página inicial."
+  },
+  "message.indexSubtitle": {
+    "message": "Potencialize seu trabalho e vida com excelência padronizada em serviços.",
+    "description": "O subtítulo da página inicial."
+  },
+  "message.fromPrice": {
+    "message": "A partir de ",
+    "description": "O texto exibido antes do preço."
+  },
+  "message.packages": {
+    "message": "Oferecemos uma variedade de pacotes de créditos, quanto mais pacotes você comprar, mais descontos você obtém.",
+    "description": "O texto exibido quando o serviço fornece pacotes de créditos."
+  },
+  "message.offer": {
+    "message": "Oferta",
+    "description": "O texto exibido quando o serviço oferece uma oferta."
+  },
+  "message.partnersTitle": {
+    "message": "Confiado por parceiros líderes",
+    "description": "O título da seção de parceiros."
+  },
+  "title.apis": {
+    "message": "API",
+    "description": "A API do serviço, a API é uma forma de serviço online."
+  },
+  "title.proxies": {
+    "message": "Proxy",
+    "description": "O proxy do serviço, o proxy é uma forma de serviço online, significa o proxy HTTP usado para transferir os dados."
+  },
+  "title.packages": {
+    "message": "Pacotes",
+    "description": "Os pacotes do serviço, os pacotes são usados para comprar créditos, por exemplo, o serviço fornece 3 pacotes, 100$ por 100 créditos, 200$ por 200 créditos, 300$ por 300 créditos."
+  },
+  "unit.credit": {
+    "message": "Crédito",
+    "description": "Crédito significa a moeda virtual usada no serviço de API"
+  },
+  "unit.Credit": {
+    "message": "Crédito",
+    "description": "Crédito significa a moeda virtual usada no serviço de API, esta é a forma capitalizada"
+  },
+  "unit.credits": {
+    "message": "Créditos",
+    "description": "Créditos significa a moeda virtual usada no serviço de API, esta é a forma plural"
+  },
+  "unit.Credits": {
+    "message": "Créditos",
+    "description": "Créditos significa a moeda virtual usada no serviço de API, esta é a forma capitalizada e plural"
+  },
+  "unit.call": {
+    "message": "Chamada",
+    "description": "Chamada significa as vezes que o serviço de API foi chamado"
+  },
+  "unit.Call": {
+    "message": "Chamada",
+    "description": "Chamada significa as vezes que o serviço de API foi chamado, esta é a forma capitalizada"
+  },
+  "unit.calls": {
+    "message": "Chamadas",
+    "description": "Chamadas significa as vezes que o serviço de API foi chamado, esta é a forma plural"
+  },
+  "unit.Calls": {
+    "message": "Chamadas",
+    "description": "Chamadas significa as vezes que o serviço de API foi chamado, esta é a forma capitalizada e plural"
+  },
+  "unit.MB": {
+    "message": "MB",
+    "description": "MB significa Megabyte, uma unidade de armazenamento de informações digitais"
+  },
+  "unit.GB": {
+    "message": "GB",
+    "description": "GB significa Gigabyte, uma unidade de armazenamento de informações digitais"
+  }
+}

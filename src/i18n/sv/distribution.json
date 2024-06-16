@@ -1,0 +1,130 @@
+{
+  "button.detail": {
+    "message": "Visa detaljer",
+    "description": "Texten på knappen som används för att visa detaljerna i hänvisningshistoriken för webbplatsen."
+  },
+  "button.withdrawal": {
+    "message": "Ta ut",
+    "description": "Texten på knappen som används för att ta ut hänvisningsintäkterna för webbplatsen."
+  },
+  "button.query": {
+    "message": "Förfrågan",
+    "description": "Texten på knappen som används för att förfråga hänvisningsintäkterna för webbplatsen."
+  },
+  "field.id": {
+    "message": "Hänvisnings-ID",
+    "description": "Det unika identifieraren för distributionen, distributionen innebär hänvisningen för API-tjänstens webbplats."
+  },
+  "field.percentage": {
+    "message": "Hänvisningsintäktsprocent",
+    "description": "Procentandelen av hänvisningsintäkterna, som beräknas baserat på orderbeloppet."
+  },
+  "field.price": {
+    "message": "Orderbelopp",
+    "description": "Beloppet för ordern, som används för att beräkna hänvisningsintäkterna."
+  },
+  "field.reward": {
+    "message": "Hänvisningsbelöning",
+    "description": "Hänvisningsintäkterna, som beräknas baserat på orderbeloppet och hänvisningsintäktsprocenten."
+  },
+  "field.createdAt": {
+    "message": "Hänvisningstid",
+    "description": "Tiden då hänvisningen skapas."
+  },
+  "field.level": {
+    "message": "Nivå",
+    "description": "Nivån för hänvisningen, som används för att beräkna hänvisningsintäkterna."
+  },
+  "field.threshold": {
+    "message": "Hänvisningsintäktsgräns",
+    "description": "Gränsen för hänvisningsintäkterna, som används för att ta ut hänvisningsintäkterna."
+  },
+  "field.inviteeId": {
+    "message": "Inbjudarens ID",
+    "description": "Den unika identifieraren för inbjudaren, inbjudaren innebär användaren som bjuder in inbjudna till API-tjänstens webbplats."
+  },
+  "field.isVerified": {
+    "message": "Är verifierad",
+    "description": "Flaggan som indikerar om hänvisningsanvändaren är verifierad med verklig information."
+  },
+  "message.deltaPriceForNextLevel": {
+    "message": "Skillnad till nästa nivå",
+    "description": "Skillnaden mellan det aktuella orderbeloppet och nästa nivås tröskel."
+  },
+  "message.developingWithDrawal": {
+    "message": "Var god anslut till Discord och rådfråga support för att hantera uttag, uttag kommer att dra av relaterad inkomstskatt.",
+    "description": "Meddelandet som indikerar att uttagsfunktionen är under utveckling."
+  },
+  "message.technicalDetail": {
+    "message": "Teknisk detalj",
+    "description": "Den tekniska detaljen för hänvisningssystemet implementeras."
+  },
+  "message.distributionQrDescription": {
+    "message": "Hänvisnings QR-kod (samma innehåll som länk)",
+    "description": "Beskrivningen av hänvisnings QR-koden."
+  },
+  "message.distributionLink": {
+    "message": "Hänvisningslänk",
+    "description": "Hänvisningslänken, som används för att binda kunden som underordnad kund."
+  },
+  "message.updateSuccessfully": {
+    "message": "Uppdatering lyckades",
+    "description": "Meddelandet som indikerar att hänvisningsinformationen har uppdaterats framgångsrikt."
+  },
+  "message.distributionLinkDescription": {
+    "message": "Om en kund registrerar sig på denna plattform genom denna länk eller QR-kod, kommer kunden permanent att vara bunden som din underordnade kund, och alla konsumtionsorder från kunden på denna plattform kommer att returneras till ditt konto enligt den aktuella distributionskvoten.",
+    "description": "Beskrivningen av hänvisningslänken."
+  },
+  "message.distributionLinkDescription2": {
+    "message": "Denna länk innehåller ditt användar-ID. Efter att kunden har öppnat länken kommer ditt användar-ID att sparas i kundens webbläsare i form av cookies, vilket är giltigt i sju dagar. Inom sju dagar, om kunden registrerar sig på denna plattform genom att skanna koden, kommer ditt användar-ID att laddas upp till registreringsservern med cookies, och kunden kan bindas som din nedströmskund.",
+    "description": "Beskrivningen av hänvisningslänken."
+  },
+  "title.price": {
+    "message": "Totalt belopp för hänvisningsorder",
+    "description": "Det totala beloppet för hänvisningsordrar, som används för att beräkna hänvisningsintäkterna."
+  },
+  "title.reward": {
+    "message": "Totala hänvisningsbelöningar",
+    "description": "De totala hänvisningsbelöningarna, som beräknas baserat på orderbeloppet och hänvisningsintäktsprocenten."
+  },
+  "title.level": {
+    "message": "Hänvisningsnivå",
+    "description": "Hänvisningsnivån, som används för att beräkna hänvisningsintäkterna."
+  },
+  "title.percentage": {
+    "message": "Hänvisningsintäktsprocent",
+    "description": "Hänvisningsintäktsprocenten, som används för att beräkna hänvisningsintäkterna."
+  },
+  "title.currentLevel": {
+    "message": "Aktuell nivå",
+    "description": "Den aktuella hänvisningsnivån, som används för att beräkna hänvisningsintäkterna."
+  },
+  "title.nextLevel": {
+    "message": "Nästa nivå",
+    "description": "Nästa hänvisningsnivå, som används för att beräkna hänvisningsintäkterna."
+  },
+  "title.currentPercentage": {
+    "message": "Aktuell hänvisningsintäktsprocent",
+    "description": "Den aktuella hänvisningsintäktsprocenten, som används för att beräkna hänvisningsintäkterna."
+  },
+  "title.nextPercentage": {
+    "message": "Nästa nivå hänvisningsintäktsprocent",
+    "description": "Nästa nivå hänvisningsintäktsprocent, som används för att beräkna hänvisningsintäkterna."
+  },
+  "title.levelInfo": {
+    "message": "Nivåinformation",
+    "description": "Informationen om hänvisningsnivån, som används för att beräkna hänvisningsintäkterna."
+  },
+  "title.distributionLink": {
+    "message": "Hänvisningslänk",
+    "description": "Hänvisningslänken, som används för att binda kunden som underordnad kund."
+  },
+  "title.inviteesCount": {
+    "message": "Totalt antal inbjudna",
+    "description": "Det totala antalet inbjudna, som används för att beräkna hänvisningsintäkterna."
+  },
+  "title.manageDistributionStatus": {
+    "message": "Distributionshantering",
+    "description": "Hanteringen av hänvisningsstatusen."
+  }
+}

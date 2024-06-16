@@ -1,0 +1,42 @@
+{
+  "menu.orderList": {
+    "message": "Spisak narudžbina",
+    "description": "Tekst u meniju veb sajta, Narudžba znači naručivanje usluge od strane korisnika"
+  },
+  "menu.applicationList": {
+    "message": "Lista aplikacija",
+    "description": "Tekst u meniju veb sajta, Aplikacija znači aplikacija koju korisnik koristi za pružanje usluge"
+  },
+  "menu.userProfile": {
+    "message": "Korisnički profil",
+    "description": "Tekst u meniju veb sajta, Korisnički profil znači profil korisnika"
+  },
+  "menu.idVerify": {
+    "message": "Provera identiteta",
+    "description": "Tekst u meniju veb sajta, Provera identiteta znači provera identiteta korisnika"
+  },
+  "menu.manageApplication": {
+    "message": "Upravljanje aplikacijama",
+    "description": "Tekst u meniju veb sajta, Upravljanje aplikacijama znači upravljanje aplikacijama korisnika"
+  },
+  "menu.distributionIndex": {
+    "message": "Zarada od preporuke",
+    "description": "Tekst u meniju veb sajta, Zarada od preporuke znači zaradu od preporuke korisnika"
+  },
+  "menu.usageList": {
+    "message": "Istorija korišćenja",
+    "description": "Tekst u meniju veb sajta, Istorija korišćenja znači istoriju korišćenja API usluge od strane korisnika"
+  },
+  "menu.credentialIndex": {
+    "message": "Akreditacije",
+    "description": "Tekst u meniju veb sajta, Akreditacije znači akreditacije za pristup API-ju"
+  },
+  "menu.manageOrder": {
+    "message": "Upravljanje narudžbinama",
+    "description": "Tekst u meniju veb sajta, Upravljanje narudžbinama znači upravljanje narudžbinama korisnika, narudžba znači naručivanje usluge od strane korisnika"
+  },
+  "menu.manageDistributionStatus": {
+    "message": "Upravljanje distribucijom",
+    "description": "Tekst u meniju veb sajta, Upravljanje distribucijom znači upravljanje statusom distribucije korisnika, u vezi sa zaradom od preporuke korisnika"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "field.id": {
+    "message": "Αναγνωριστικό Χρήστη",
+    "description": "Αναγνωριστικό Χρήστη"
+  },
+  "field.isVerified": {
+    "message": "Έχει Επαληθευτεί",
+    "description": "Ένα σημαία που υποδηλώνει εάν ο χρήστης έχει επαληθευτεί βάσει πραγματικών πληροφοριών ή όχι"
+  },
+  "field.nickname": {
+    "message": "Ψευδώνυμο",
+    "description": "Ψευδώνυμο ενός χρήστη"
+  },
+  "field.username": {
+    "message": "Όνομα Χρήστη",
+    "description": "Όνομα Χρήστη ενός χρήστη"
+  },
+  "field.dateJoined": {
+    "message": "Ώρα Εγγραφής",
+    "description": "Ώρα που ο χρήστης εγγράφηκε"
+  }
+}

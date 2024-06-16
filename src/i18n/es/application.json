@@ -1,0 +1,198 @@
+{
+  "button.goDocument": {
+    "message": "Documento",
+    "description": "El texto en un botón, al hacer clic en este botón, irá a la página del documento."
+  },
+  "button.goCredentials": {
+    "message": "Credenciales",
+    "description": "El texto en un botón, al hacer clic en este botón, irá a la página de credenciales."
+  },
+  "button.buyMore": {
+    "message": "Comprar más",
+    "description": "El texto en un botón, al hacer clic en este botón, irá a la página de compra adicional."
+  },
+  "button.createOrder": {
+    "message": "Crear orden",
+    "description": "El texto en un botón, al hacer clic en este botón, irá a la página de creación de orden."
+  },
+  "button.custom": {
+    "message": "Personalizado",
+    "description": "El texto en un botón, al hacer clic en este botón, irá a la página personalizada."
+  },
+  "button.query": {
+    "message": "Consulta",
+    "description": "El texto en un botón, al hacer clic en este botón, irá a la página de consulta."
+  },
+  "button.usage": {
+    "message": "Historial de uso",
+    "description": "El texto en un botón, al hacer clic en este botón, irá a la página de historial de uso."
+  },
+  "field.application": {
+    "message": "Aplicación",
+    "description": "La aplicación del servicio."
+  },
+  "field.status": {
+    "message": "Estado",
+    "description": "El estado de la aplicación."
+  },
+  "field.id": {
+    "message": "ID de la aplicación",
+    "description": "El ID de la aplicación."
+  },
+  "field.remainingAmount": {
+    "message": "Cantidad restante",
+    "description": "La cantidad restante de la aplicación."
+  },
+  "field.usedAmount": {
+    "message": "Cantidad utilizada",
+    "description": "La cantidad utilizada de la aplicación."
+  },
+  "field.apiKey": {
+    "message": "Clave API",
+    "description": "La clave API"
+  },
+  "field.service": {
+    "message": "Servicio",
+    "description": "El servicio de la aplicación."
+  },
+  "field.operation": {
+    "message": "Operación",
+    "description": "La operación de la aplicación."
+  },
+  "field.amount": {
+    "message": "Cantidad",
+    "description": "La cantidad de la aplicación."
+  },
+  "field.traceId": {
+    "message": "ID de traza",
+    "description": "El ID de traza de una llamada de API, para la aplicación del servicio de la API, no lo traduzca, manténgalo como 'ID de traza'"
+  },
+  "field.shouldPayPrice": {
+    "message": "Precio final",
+    "description": "El precio final de la aplicación."
+  },
+  "field.api": {
+    "message": "API",
+    "description": "Este es un tipo de servicio en línea, el formulario es a través de API para proporcionar servicio al usuario."
+  },
+  "field.proxy": {
+    "message": "Proxy",
+    "description": "Este es un tipo de servicio en línea, el formulario es a través de un proxy HTTP (utilizado para transferir datos) para proporcionar servicio al usuario."
+  },
+  "field.credential": {
+    "message": "Credencial",
+    "description": "La credencial de la aplicación."
+  },
+  "field.name": {
+    "message": "Nombre",
+    "description": "El nombre de la aplicación."
+  },
+  "field.package": {
+    "message": "Paquete",
+    "description": "El paquete significa diferentes paquetes de precios, como $100 por 10000 créditos, $200 por 20000 créditos."
+  },
+  "field.type": {
+    "message": "Tipo",
+    "description": "El tipo de la aplicación."
+  },
+  "field.freeAmount": {
+    "message": "Cantidad gratuita",
+    "description": "La cantidad gratuita de la aplicación."
+  },
+  "field.extraPrice": {
+    "message": "Precio",
+    "description": "El precio extra que el usuario debe pagar de la aplicación."
+  },
+  "message.alreadyApplied": {
+    "message": "Ya has solicitado este servicio, por favor verifica en la consola",
+    "description": "El mensaje mostrado al usuario cuando el usuario ya ha solicitado este servicio."
+  },
+  "message.applySuccessfully": {
+    "message": "Solicitud exitosa",
+    "description": "El mensaje mostrado al usuario cuando el usuario ha solicitado este servicio con éxito."
+  },
+  "message.notApplied": {
+    "message": "Todavía no has solicitado este servicio, por favor solicita el servicio antes de usarlo",
+    "description": "El mensaje mostrado al usuario cuando el usuario aún no ha solicitado este servicio."
+  },
+  "message.yourApplication": {
+    "message": "Tu aplicación",
+    "description": "El mensaje mostrado al usuario cuando la aplicación del usuario."
+  },
+  "message.unverified": {
+    "message": "Necesitas completar la autenticación de nombre real antes de poder solicitar este servicio",
+    "description": "El mensaje mostrado al usuario cuando el usuario no ha completado la autenticación de nombre real."
+  },
+  "message.goVerify": {
+    "message": "Ir a la autenticación de nombre real",
+    "description": "El mensaje mostrado al usuario cuando el usuario no ha completado la autenticación de nombre real."
+  },
+  "message.requiredParameter": {
+    "message": "Parámetro requerido",
+    "description": "El mensaje mostrado al usuario cuando el usuario no ha ingresado el parámetro requerido."
+  },
+  "message.example": {
+    "message": "Ejemplo",
+    "description": "El mensaje mostrado al usuario cuando el usuario no ha ingresado el parámetro requerido."
+  },
+  "message.createCredentialSuccessfully": {
+    "message": "Credencial creada exitosamente",
+    "description": "El mensaje mostrado al usuario cuando el usuario ha creado la credencial con éxito."
+  },
+  "message.readPolicy": {
+    "message": "He leído y acepto",
+    "description": "El mensaje mostrado al usuario cuando el usuario ha leído y aceptado la política."
+  },
+  "message.policy": {
+    "message": "Acuerdo de Uso del Servicio de Tecnología de Datos",
+    "description": "El mensaje mostrado al usuario cuando el usuario ha leído y aceptado la política."
+  },
+  "message.notAgreePolicy": {
+    "message": "No has aceptado el Acuerdo de Uso del Servicio de Tecnología de Datos",
+    "description": "El mensaje mostrado al usuario cuando el usuario no ha aceptado la política."
+  },
+  "message.confirmApplying": {
+    "message": "Confirmar solicitud de servicio",
+    "description": "El mensaje mostrado al usuario cuando el usuario ha confirmado la solicitud de servicio."
+  },
+  "message.rotateCredential": {
+    "message": "Restablecer clave",
+    "description": "El mensaje mostrado al usuario cuando el usuario ha restablecido la clave."
+  },
+  "message.rotateCredentialConfirm": {
+    "message": "¿Estás seguro de que quieres restablecer la clave? No se puede recuperar después de restablecerla",
+    "description": "El mensaje mostrado al usuario cuando el usuario ha confirmado el restablecimiento de la clave."
+  },
+  "message.idDoesNotExist": {
+    "message": "La aplicación no existe",
+    "description": "El mensaje mostrado al usuario cuando la aplicación no existe."
+  },
+  "message.rotateCredentialSuccessfully": {
+    "message": "Restablecimiento de clave exitoso",
+    "description": "El mensaje mostrado al usuario cuando el restablecimiento de la clave es exitoso."
+  },
+  "message.rotateCredentialFailed": {
+    "message": "Restablecimiento de clave fallido, por favor contacta para manejar",
+    "description": "El mensaje mostrado al usuario cuando el restablecimiento de la clave falla."
+  },
+  "message.updateFailed": {
+    "message": "Modificación fallida",
+    "description": "El mensaje mostrado al usuario cuando la modificación falla."
+  },
+  "message.updateSuccessfully": {
+    "message": "Modificación exitosa",
+    "description": "El mensaje mostrado al usuario cuando la modificación es exitosa."
+  },
+  "title.buyService": {
+    "message": "Comprar servicio",
+    "description": "El título de la página, cuando el usuario quiere comprar el servicio."
+  },
+  "title.applicationRemainingCount": {
+    "message": "Modificar cantidad",
+    "description": "El título de la página, cuando el usuario quiere modificar la cantidad de la aplicación."
+  },
+  "title.manageApplication": {
+    "message": "Gestión de aplicaciones",
+    "description": "El título de la página, cuando el usuario quiere gestionar la aplicación."
+  }
+}

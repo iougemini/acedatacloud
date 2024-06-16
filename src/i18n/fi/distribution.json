@@ -1,0 +1,130 @@
+{
+  "button.detail": {
+    "message": "Näytä tiedot",
+    "description": "Painikkeen teksti, jota käytetään katsomaan viittaushistorian yksityiskohtia verkkosivustolle."
+  },
+  "button.withdrawal": {
+    "message": "Nosta",
+    "description": "Painikkeen teksti, jota käytetään viittaustulojen nostamiseen verkkosivustolla."
+  },
+  "button.query": {
+    "message": "Kysely",
+    "description": "Painikkeen teksti, jota käytetään viittaustulojen kyselyyn verkkosivustolla."
+  },
+  "field.id": {
+    "message": "Viittaus-ID",
+    "description": "Jakelun yksilöllinen tunniste, jakelu tarkoittaa viittausta API-palvelun verkkosivustolle."
+  },
+  "field.percentage": {
+    "message": "Viittaustulojen prosenttiosuus",
+    "description": "Viittaustulojen prosenttiosuus, joka lasketaan tilausmäärän perusteella."
+  },
+  "field.price": {
+    "message": "Tilausmäärä",
+    "description": "Tilauksen määrä, jota käytetään viittaustulojen laskemiseen."
+  },
+  "field.reward": {
+    "message": "Viittauspalkkio",
+    "description": "Viittaustulot, jotka lasketaan tilausmäärän ja viittaustulojen prosenttiosuuden perusteella."
+  },
+  "field.createdAt": {
+    "message": "Viittauksen aika",
+    "description": "Aika, jolloin viittaus on luotu."
+  },
+  "field.level": {
+    "message": "Taso",
+    "description": "Viittauksen taso, jota käytetään viittaustulojen laskemiseen."
+  },
+  "field.threshold": {
+    "message": "Viittaustulojen kynnysarvo",
+    "description": "Viittaustulojen kynnysarvo, jota käytetään viittaustulojen nostamiseen."
+  },
+  "field.inviteeId": {
+    "message": "Kutsujan ID",
+    "description": "Kutsujan yksilöllinen tunniste, kutsuja tarkoittaa käyttäjää, joka kutsuu kutsutun API-palvelun verkkosivustolle."
+  },
+  "field.isVerified": {
+    "message": "Onko vahvistettu",
+    "description": "Lippu, joka osoittaa, onko viittauskäyttäjä vahvistettu oikeilla tiedoilla."
+  },
+  "message.deltaPriceForNextLevel": {
+    "message": "Erotus seuraavaan tasoon",
+    "description": "Erotus nykyisen tilausmäärän ja seuraavan tason kynnyksen välillä."
+  },
+  "message.developingWithDrawal": {
+    "message": "Liity Discordiin ja kysy tukea nostojen käsittelyyn, nostot vähentävät liittyvää tuloveroa.",
+    "description": "Viesti, joka osoittaa, että nostotoiminto on kehitysvaiheessa."
+  },
+  "message.technicalDetail": {
+    "message": "Tekninen yksityiskohta",
+    "description": "Viittausjärjestelmän tekninen yksityiskohta on toteutettu."
+  },
+  "message.distributionQrDescription": {
+    "message": "Viittaus QR-koodi (sama sisältö kuin linkki)",
+    "description": "Viittaus QR-koodin kuvaus."
+  },
+  "message.distributionLink": {
+    "message": "Viittauslinkki",
+    "description": "Viittauslinkki, jota käytetään sitomaan asiakas alaisasiakkaaksi."
+  },
+  "message.updateSuccessfully": {
+    "message": "Päivitys onnistui",
+    "description": "Viesti, joka osoittaa, että viittaustiedot on päivitetty onnistuneesti."
+  },
+  "message.distributionLinkDescription": {
+    "message": "Jos asiakas rekisteröityy tälle alustalle tämän linkin tai QR-koodin kautta, asiakas sitoutuu pysyvästi alaisasiakkaaksesi, ja kaikki asiakkaan kulutustilaukset tällä alustalla palautetaan tilillesi nykyisen jakosuhteen mukaisesti.",
+    "description": "Viittauslinkin kuvaus."
+  },
+  "message.distributionLinkDescription2": {
+    "message": "Tämä linkki sisältää käyttäjätunnuksesi. Kun asiakas avaa linkin, käyttäjätunnuksesi tallennetaan asiakkaan selaimeen evästeen muodossa, ja se on voimassa seitsemän päivää. Seitsemän päivän kuluessa, jos asiakas rekisteröityy tälle alustalle skannaamalla koodi, käyttäjätunnuksesi lähetetään rekisteröintipalvelimelle evästeiden kanssa, ja asiakas voidaan sitoa alaisasiakkaaksesi.",
+    "description": "Viittauslinkin kuvaus."
+  },
+  "title.price": {
+    "message": "Viittausmäärän kokonaismäärä",
+    "description": "Viittausmäärän kokonaismäärä, jota käytetään viittaustulojen laskemiseen."
+  },
+  "title.reward": {
+    "message": "Kokonaisviittauspalkkiot",
+    "description": "Kokonaisviittauspalkkiot, jotka lasketaan tilausmäärän ja viittaustulojen prosenttiosuuden perusteella."
+  },
+  "title.level": {
+    "message": "Viittauksen taso",
+    "description": "Viittauksen taso, jota käytetään viittaustulojen laskemiseen."
+  },
+  "title.percentage": {
+    "message": "Viittaustulojen prosenttiosuus",
+    "description": "Viittaustulojen prosenttiosuus, jota käytetään viittaustulojen laskemiseen."
+  },
+  "title.currentLevel": {
+    "message": "Nykyinen taso",
+    "description": "Nykyinen viittauksen taso, jota käytetään viittaustulojen laskemiseen."
+  },
+  "title.nextLevel": {
+    "message": "Seuraava taso",
+    "description": "Seuraava viittauksen taso, jota käytetään viittaustulojen laskemiseen."
+  },
+  "title.currentPercentage": {
+    "message": "Nykyinen viittaustulojen prosenttiosuus",
+    "description": "Nykyinen viittaustulojen prosenttiosuus, jota käytetään viittaustulojen laskemiseen."
+  },
+  "title.nextPercentage": {
+    "message": "Seuraavan tason viittaustulojen prosenttiosuus",
+    "description": "Seuraavan tason viittaustulojen prosenttiosuus, jota käytetään viittaustulojen laskemiseen."
+  },
+  "title.levelInfo": {
+    "message": "Tason tiedot",
+    "description": "Viittauksen tason tiedot, jotka käytetään viittaustulojen laskemiseen."
+  },
+  "title.distributionLink": {
+    "message": "Viittauslinkki",
+    "description": "Viittauslinkki, jota käytetään sitomaan asiakas alaisasiakkaaksi."
+  },
+  "title.inviteesCount": {
+    "message": "Kutsuttujen kokonaismäärä",
+    "description": "Kutsuttujen kokonaismäärä, jota käytetään viittaustulojen laskemiseen."
+  },
+  "title.manageDistributionStatus": {
+    "message": "Jakelun hallinta",
+    "description": "Viittaustilan hallinta."
+  }
+}

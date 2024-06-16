@@ -1,0 +1,142 @@
+{
+  "entity.requestQueries": {
+    "message": "Consultas de solicitud",
+    "description": "Los parámetros de consulta de solicitud HTTP."
+  },
+  "entity.requestBody": {
+    "message": "Cuerpo de la solicitud",
+    "description": "El cuerpo de la solicitud HTTP."
+  },
+  "entity.responseBody": {
+    "message": "Cuerpo de la respuesta",
+    "description": "El cuerpo de la respuesta HTTP."
+  },
+  "entity.requestHeaders": {
+    "message": "Encabezados de solicitud",
+    "description": "Los encabezados de solicitud HTTP."
+  },
+  "entity.requestHeader": {
+    "message": "Encabezado de solicitud",
+    "description": "El encabezado de solicitud HTTP, solo un formulario único para los encabezados de solicitud."
+  },
+  "entity.responseHeaders": {
+    "message": "Encabezados de respuesta",
+    "description": "Los encabezados de respuesta HTTP."
+  },
+  "entity.response": {
+    "message": "Respuesta",
+    "description": "La respuesta HTTP."
+  },
+  "entity.success": {
+    "message": "Éxito",
+    "description": "La respuesta exitosa."
+  },
+  "entity.failure": {
+    "message": "Fallo",
+    "description": "La respuesta fallida."
+  },
+  "entity.responseExample": {
+    "message": "Ejemplo",
+    "description": "El ejemplo de la respuesta."
+  },
+  "entity.authentication": {
+    "message": "Autenticación",
+    "description": "La información de autenticación."
+  },
+  "entity.arrayOf": {
+    "message": "Matriz de",
+    "description": "La matriz de la entidad."
+  },
+  "entity.apiKey": {
+    "message": "Clave API",
+    "description": "La clave API"
+  },
+  "message.free": {
+    "message": "Gratis",
+    "description": "Significa que el precio es gratuito, no es necesario gastar créditos o dinero al usar el servicio de la API"
+  },
+  "message.appliedCount": {
+    "message": "Cantidad de aplicaciones",
+    "description": "La cantidad de veces que se ha aplicado el servicio de la API"
+  },
+  "message.firstFree": {
+    "message": "Primera vez gratis",
+    "description": "Significa que la primera vez del servicio de la API es gratuita, no es necesario gastar créditos o dinero"
+  },
+  "message.custom": {
+    "message": "Cantidad especificada",
+    "description": "Significa que el precio está especificado, es necesario gastar los créditos o dinero especificados al usar el servicio de la API"
+  },
+  "message.present": {
+    "message": "Presente",
+    "description": "Te presentaremos los créditos cuando uses el servicio de la API por primera vez"
+  },
+  "message.around": {
+    "message": "Aproximadamente",
+    "description": "El precio es aproximado, el precio real puede ser diferente"
+  },
+  "message.successRate15min": {
+    "message": "Tasa de éxito en tiempo real",
+    "description": "La tasa de éxito en tiempo real del servicio de la API en los últimos 15 minutos"
+  },
+  "message.ySuccessRate": {
+    "message": "Tasa de éxito (100%)",
+    "description": "La tasa de éxito del servicio de la API"
+  },
+  "message.xMinutes": {
+    "message": "Tiempo (minutos)",
+    "description": "El tiempo en minutos"
+  },
+  "message.streamUsage": {
+    "message": "Recordatorio amable: Para solicitudes de transmisión, es posible que el código anterior no sea completamente aplicable. Consulte el documento de acoplamiento para realizar modificaciones.",
+    "description": "Para solicitudes de transmisión, es posible que el código anterior no sea completamente aplicable. Consulte el documento de acoplamiento para realizar modificaciones."
+  },
+  "message.alphaStage": {
+    "message": "Esta API está en la etapa Alfa, es una versión preliminar temprana, puede haber inestabilidad potencial, el formato de la API puede cambiar significativamente, no se recomienda su uso en un entorno de producción. La tarificación actual es relativamente baja y puede haber ajustes significativos de precios en el futuro.",
+    "description": "Esta API está en la etapa Alfa, es una versión preliminar temprana, puede haber inestabilidad potencial, el formato de la API puede cambiar significativamente, no se recomienda su uso en un entorno de producción. La tarificación actual es relativamente baja y puede haber ajustes significativos de precios en el futuro."
+  },
+  "message.betaStage": {
+    "message": "Esta API está en la etapa Beta, el formato de la API no cambiará mucho, pero puede haber inestabilidad potencial, úsela con cuidado en un entorno de producción. La tarificación actual es relativamente baja y puede haber ajustes moderados de precios en el futuro.",
+    "description": "Esta API está en la etapa Beta, el formato de la API no cambiará mucho, pero puede haber inestabilidad potencial, úsela con cuidado en un entorno de producción. La tarificación actual es relativamente baja y puede haber ajustes moderados de precios en el futuro."
+  },
+  "unit.credit": {
+    "message": "Crédito",
+    "description": "Crédito significa la moneda virtual utilizada en el servicio de la API"
+  },
+  "unit.Credit": {
+    "message": "Crédito",
+    "description": "Crédito significa la moneda virtual utilizada en el servicio de la API, esta es la forma capitalizada"
+  },
+  "unit.credits": {
+    "message": "Créditos",
+    "description": "Créditos significa la moneda virtual utilizada en el servicio de la API, esta es la forma plural"
+  },
+  "unit.Credits": {
+    "message": "Créditos",
+    "description": "Créditos significa la moneda virtual utilizada en el servicio de la API, esta es la forma capitalizada y plural"
+  },
+  "unit.call": {
+    "message": "Llamada",
+    "description": "Llamada significa las veces que se ha llamado al servicio de la API"
+  },
+  "unit.Call": {
+    "message": "Llamada",
+    "description": "Llamada significa las veces que se ha llamado al servicio de la API, esta es la forma capitalizada"
+  },
+  "unit.calls": {
+    "message": "Llamadas",
+    "description": "Llamadas significa las veces que se ha llamado al servicio de la API, esta es la forma plural"
+  },
+  "unit.Calls": {
+    "message": "Llamadas",
+    "description": "Llamadas significa las veces que se ha llamado al servicio de la API, esta es la forma capitalizada y plural"
+  },
+  "unit.MB": {
+    "message": "MB",
+    "description": "MB significa megabyte, una unidad de almacenamiento de información digital"
+  },
+  "unit.GB": {
+    "message": "GB",
+    "description": "GB significa gigabyte, una unidad de almacenamiento de información digital"
+  }
+}

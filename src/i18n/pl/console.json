@@ -1,0 +1,42 @@
+{
+  "menu.orderList": {
+    "message": "Lista zamówień",
+    "description": "Tekst w menu witryny, Zamówienie oznacza zamówienie użytkownika w celu zakupu usługi"
+  },
+  "menu.applicationList": {
+    "message": "Lista aplikacji",
+    "description": "Tekst w menu witryny, Aplikacja oznacza aplikację użytkownika do korzystania z usługi"
+  },
+  "menu.userProfile": {
+    "message": "Profil użytkownika",
+    "description": "Tekst w menu witryny, Profil użytkownika oznacza profil użytkownika"
+  },
+  "menu.idVerify": {
+    "message": "Weryfikacja tożsamości",
+    "description": "Tekst w menu witryny, Weryfikacja tożsamości oznacza weryfikację tożsamości użytkownika"
+  },
+  "menu.manageApplication": {
+    "message": "Zarządzanie aplikacjami",
+    "description": "Tekst w menu witryny, Zarządzanie aplikacjami oznacza zarządzanie aplikacją użytkownika"
+  },
+  "menu.distributionIndex": {
+    "message": "Zarobki z poleceń",
+    "description": "Tekst w menu witryny, Zarobki z poleceń oznaczają zarobki z polecenia użytkownika"
+  },
+  "menu.usageList": {
+    "message": "Historia użytkowania",
+    "description": "Tekst w menu witryny, Historia użytkowania oznacza historię użytkowania usługi API przez użytkownika"
+  },
+  "menu.credentialIndex": {
+    "message": "Poświadczenia",
+    "description": "Tekst w menu witryny, Poświadczenia oznaczają poświadczenia dostępu do interfejsu API"
+  },
+  "menu.manageOrder": {
+    "message": "Zarządzanie zamówieniami",
+    "description": "Tekst w menu witryny, Zarządzanie zamówieniami oznacza zarządzanie zamówieniem użytkownika, zamówienie oznacza zamówienie użytkownika w celu zakupu usługi"
+  },
+  "menu.manageDistributionStatus": {
+    "message": "Zarządzanie dystrybucją",
+    "description": "Tekst w menu witryny, Zarządzanie dystrybucją oznacza zarządzanie statusem dystrybucji użytkownika, związanym z zarobkami z polecenia użytkownika"
+  }
+}

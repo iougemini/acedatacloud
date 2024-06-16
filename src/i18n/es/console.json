@@ -1,0 +1,42 @@
+{
+  "menu.orderList": {
+    "message": "Lista de Pedidos",
+    "description": "El texto en un menú de un sitio web, Pedido significa el pedido del usuario para comprar el servicio"
+  },
+  "menu.applicationList": {
+    "message": "Lista de Aplicaciones",
+    "description": "El texto en un menú de un sitio web, Aplicación significa la solicitud del usuario para usar el servicio"
+  },
+  "menu.userProfile": {
+    "message": "Perfil de Usuario",
+    "description": "El texto en un menú de un sitio web, Perfil de Usuario significa el perfil del usuario"
+  },
+  "menu.idVerify": {
+    "message": "Verificación de Identidad",
+    "description": "El texto en un menú de un sitio web, Verificación de Identidad significa la verificación de la identidad del usuario"
+  },
+  "menu.manageApplication": {
+    "message": "Gestión de Aplicaciones",
+    "description": "El texto en un menú de un sitio web, Gestión de Aplicaciones significa la gestión de la solicitud del usuario"
+  },
+  "menu.distributionIndex": {
+    "message": "Ganancias por Referidos",
+    "description": "El texto en un menú de un sitio web, Ganancias por Referidos significa las ganancias por referidos del usuario"
+  },
+  "menu.usageList": {
+    "message": "Historial de Uso",
+    "description": "El texto en un menú de un sitio web, Historial de Uso significa el historial de uso del usuario de un servicio de API"
+  },
+  "menu.credentialIndex": {
+    "message": "Credenciales",
+    "description": "El texto en un menú de un sitio web, Credenciales significa las credenciales para acceder a la API"
+  },
+  "menu.manageOrder": {
+    "message": "Gestión de Pedidos",
+    "description": "El texto en un menú de un sitio web, Gestión de Pedidos significa la gestión del pedido del usuario, pedido significa el pedido del usuario para comprar el servicio"
+  },
+  "menu.manageDistributionStatus": {
+    "message": "Gestión de Distribución",
+    "description": "El texto en un menú de un sitio web, Gestión de Distribución significa la gestión del estado de distribución del usuario, relacionado con las ganancias por referidos del usuario"
+  }
+}

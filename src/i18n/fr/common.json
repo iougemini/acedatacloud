@@ -1,0 +1,326 @@
+{
+  "button.setup": {
+    "message": "Configurer",
+    "description": "Le texte sur le bouton, qui est utilisé pour configurer quelque chose"
+  },
+  "button.preview": {
+    "message": "Aperçu",
+    "description": "Le texte sur le bouton, qui est utilisé pour ouvrir pour prévisualiser un fichier par URL"
+  },
+  "button.edit": {
+    "message": "Modifier",
+    "description": "Le texte sur le bouton, qui est utilisé pour modifier quelque chose"
+  },
+  "button.login": {
+    "message": "Se connecter",
+    "description": "Le texte sur le bouton, qui est utilisé pour se connecter"
+  },
+  "button.logout": {
+    "message": "Se déconnecter",
+    "description": "Le texte sur le bouton, qui est utilisé pour se déconnecter"
+  },
+  "button.new": {
+    "message": "Nouveau",
+    "description": "Le texte sur le bouton, qui est utilisé pour créer un nouvel élément"
+  },
+  "button.delete": {
+    "message": "Supprimer",
+    "description": "Le texte sur le bouton, qui est utilisé pour supprimer quelque chose"
+  },
+  "button.confirm": {
+    "message": "Confirmer",
+    "description": "Le texte sur le bouton, qui est utilisé pour confirmer quelque chose"
+  },
+  "button.cancel": {
+    "message": "Annuler",
+    "description": "Le texte sur le bouton, qui est utilisé pour annuler quelque chose"
+  },
+  "button.alert": {
+    "message": "Alerte",
+    "description": "Le texte sur le bouton, qui est utilisé pour alerter quelque chose"
+  },
+  "button.info": {
+    "message": "Info",
+    "description": "Le texte sur le bouton, qui est utilisé pour afficher des informations"
+  },
+  "button.publish": {
+    "message": "Publier",
+    "description": "Le texte sur le bouton, qui est utilisé pour publier quelque chose"
+  },
+  "button.watch": {
+    "message": "Regarder",
+    "description": "Le texte sur le bouton, qui est utilisé pour regarder quelque chose"
+  },
+  "button.verify": {
+    "message": "Vérifier",
+    "description": "Le texte sur le bouton, qui est utilisé pour permettre à l'utilisateur de faire une vérification de nom réel"
+  },
+  "button.profile": {
+    "message": "Profil",
+    "description": "Le texte sur le bouton, qui est utilisé pour afficher le profil"
+  },
+  "button.console": {
+    "message": "Console",
+    "description": "Le texte sur le bouton, qui est utilisé pour afficher la page de console pour contrôler quelque chose sur la page Web"
+  },
+  "button.learn": {
+    "message": "Apprendre",
+    "description": "Le texte sur le bouton, qui est utilisé pour permettre à l'utilisateur d'apprendre quelque chose"
+  },
+  "button.buy": {
+    "message": "Acheter",
+    "description": "Le texte sur le bouton, qui est utilisé pour permettre à l'utilisateur d'acheter quelque chose"
+  },
+  "button.try": {
+    "message": "Essayer",
+    "description": "Le texte sur le bouton, qui est utilisé pour permettre à l'utilisateur d'essayer quelque chose"
+  },
+  "button.startForFree": {
+    "message": "Commencer gratuitement",
+    "description": "Le texte sur le bouton, qui est utilisé pour permettre à l'utilisateur de commencer gratuitement"
+  },
+  "button.apply": {
+    "message": "Appliquer",
+    "description": "Le texte sur le bouton, qui est utilisé pour permettre à l'utilisateur de postuler pour le service API"
+  },
+  "button.refresh": {
+    "message": "Actualiser",
+    "description": "Le texte sur le bouton, qui est utilisé pour rafraîchir la page"
+  },
+  "button.pay": {
+    "message": "Payer",
+    "description": "Le texte sur le bouton, qui est utilisé pour permettre à l'utilisateur de payer pour le service"
+  },
+  "button.repay": {
+    "message": "Continuer à payer",
+    "description": "Le texte sur le bouton, qui est utilisé pour permettre à l'utilisateur de continuer à payer pour le service"
+  },
+  "button.applied": {
+    "message": "Appliqué",
+    "description": "Le texte sur le bouton, qui est utilisé pour montrer que l'utilisateur a postulé pour le service"
+  },
+  "button.acquire": {
+    "message": "Acquérir",
+    "description": "Le texte sur le bouton, qui est utilisé pour permettre à l'utilisateur d'acquérir quelque chose comme le jeton ou la clé pour le service API"
+  },
+  "button.fillExample": {
+    "message": "Remplir l'exemple",
+    "description": "Le texte sur le bouton, qui est utilisé pour permettre à l'utilisateur de remplir les données d'exemple"
+  },
+  "button.buyMore": {
+    "message": "Acheter plus",
+    "description": "Le texte sur le bouton, qui est utilisé pour permettre à l'utilisateur d'acheter plus"
+  },
+  "button.update": {
+    "message": "Mettre à jour",
+    "description": "Le texte sur le bouton, qui est utilisé pour mettre à jour quelque chose"
+  },
+  "button.view": {
+    "message": "Voir",
+    "description": "Le texte sur le bouton, qui est utilisé pour voir quelque chose"
+  },
+  "button.copy": {
+    "message": "Copier",
+    "description": "Le texte sur le bouton, qui est utilisé pour copier quelque chose"
+  },
+  "button.create": {
+    "message": "Créer",
+    "description": "Le texte sur le bouton, qui est utilisé pour créer quelque chose"
+  },
+  "button.referralEarnings": {
+    "message": "Gains de parrainage",
+    "description": "Le texte sur le bouton, qui est utilisé pour montrer les gains de parrainage, signifie que l'utilisateur peut gagner de l'argent en invitant d'autres à utiliser le service"
+  },
+  "button.finish": {
+    "message": "Terminer",
+    "description": "Le texte sur le bouton, qui est utilisé pour terminer quelque chose"
+  },
+  "entity.website": {
+    "message": "Ace Data Cloud",
+    "description": "Le nom du site Web, pas besoin de traduire, le laisser tel quel 'Ace Data Cloud'"
+  },
+  "entity.copyright": {
+    "message": "Droits d'auteur",
+    "description": "Le texte pour afficher les droits d'auteur"
+  },
+  "entity.platform": {
+    "message": "Plateforme",
+    "description": "Le texte qui indique qu'il s'agit d'une plateforme du service API"
+  },
+  "entity.title": {
+    "message": "Titre",
+    "description": "Le titre de l'entité"
+  },
+  "entity.icon": {
+    "message": "Icône",
+    "description": "L'icône de l'entité"
+  },
+  "entity.status": {
+    "message": "Statut",
+    "description": "Le statut de l'entité"
+  },
+  "entity.operation": {
+    "message": "Opération",
+    "description": "L'opération de l'entité"
+  },
+  "entity.description": {
+    "message": "Description",
+    "description": "La description de l'entité"
+  },
+  "entity.createdAt": {
+    "message": "Créé à",
+    "description": "Le moment où l'entité a été créée"
+  },
+  "entity.updatedAt": {
+    "message": "Mis à jour à",
+    "description": "Le moment où l'entité a été mise à jour"
+  },
+  "entity.order": {
+    "message": "Commande",
+    "description": "La commande de l'entité, la commande contient l'argent, les informations sur le service, l'utilisateur doit payer pour cela"
+  },
+  "message.usedAmount": {
+    "message": "Montant utilisé",
+    "description": "Le message pour montrer le montant utilisé du service"
+  },
+  "message.remainingAmount": {
+    "message": "Montant restant",
+    "description": "Le message pour montrer le montant restant du service"
+  },
+  "message.copied": {
+    "message": "Copié avec succès",
+    "description": "Le message pour montrer que le contenu a été copié avec succès"
+  },
+  "message.confirmDelete": {
+    "message": "Êtes-vous sûr de vouloir supprimer?",
+    "description": "Le message pour confirmer que l'utilisateur veut supprimer quelque chose"
+  },
+  "message.alert": {
+    "message": "Avertissement",
+    "description": "Le message pour alerter l'utilisateur"
+  },
+  "message.info": {
+    "message": "Rappel amical",
+    "description": "Le message pour afficher des informations"
+  },
+  "message.free": {
+    "message": "Gratuit",
+    "description": "Le message pour montrer que le service est gratuit, ce qui signifie que l'utilisateur n'a pas besoin de payer pour cela"
+  },
+  "message.startPrice": {
+    "message": "Démarrage",
+    "description": "Le message pour montrer le prix le plus bas du service"
+  },
+  "message.joinDiscord": {
+    "message": "Rejoindre Discord",
+    "description": "Le message pour permettre à l'utilisateur de rejoindre le canal Discord"
+  },
+  "message.noData": {
+    "message": "Aucune donnée",
+    "description": "Le message pour montrer qu'il n'y a pas de données dans le tableau ou la liste"
+  },
+  "nav.home": {
+    "message": "Accueil",
+    "description": "Le texte dans la barre de navigation du site Web, qui est utilisé pour afficher la page d'accueil"
+  },
+  "nav.content": {
+    "message": "Contenu",
+    "description": "Le texte dans la barre de navigation du site Web, qui est utilisé pour afficher la page de contenu"
+  },
+  "nav.category": {
+    "message": "Catégorie",
+    "description": "Le texte dans la barre de navigation du site Web, qui est utilisé pour afficher la page de catégorie"
+  },
+  "nav.service": {
+    "message": "Services",
+    "description": "Le texte dans la barre de navigation du site Web, qui est utilisé pour afficher la page de service"
+  },
+  "nav.document": {
+    "message": "Documents",
+    "description": "Le texte dans la barre de navigation du site Web, qui est utilisé pour afficher la page de document"
+  },
+  "nav.console": {
+    "message": "Console",
+    "description": "Le texte dans la barre de navigation du site Web, qui est utilisé pour afficher la page de console"
+  },
+  "nav.chat": {
+    "message": "Chat",
+    "description": "Le texte dans la barre de navigation du site Web, qui est utilisé pour afficher la page de chat, veuillez ne pas traduire ce champ, le laisser tel quel 'Chat'"
+  },
+  "nav.midjourney": {
+    "message": "Midjourney",
+    "description": "Le texte dans la barre de navigation du site Web, qui est utilisé pour afficher la page de mi-parcours, veuillez ne pas traduire ce champ, le laisser tel quel 'Midjourney'"
+  },
+  "nav.chatdoc": {
+    "message": "Chatdoc",
+    "description": "Le texte dans la barre de navigation du site Web, qui est utilisé pour afficher la page de chatdoc, veuillez ne pas traduire ce champ, le laisser tel quel 'Chatdoc'"
+  },
+  "nav.qrart": {
+    "message": "QRArt",
+    "description": "Le texte dans la barre de navigation du site Web, qui est utilisé pour afficher la page de qrart, veuillez ne pas traduire ce champ, le laisser tel quel 'QRArt'"
+  },
+  "nav.distribution": {
+    "message": "Gains de parrainage",
+    "description": "Le texte dans la barre de navigation du site Web, qui est utilisé pour afficher la page de gains de parrainage"
+  },
+  "nav.logOut": {
+    "message": "Se déconnecter",
+    "description": "Le texte dans la barre de navigation du site Web, qui est utilisé pour se déconnecter"
+  },
+  "nav.locale": {
+    "message": "Langue",
+    "description": "Le texte dans la barre de navigation du site Web, qui est utilisé pour changer la langue"
+  },
+  "nav.darkMode": {
+    "message": "Mode sombre",
+    "description": "Le texte dans la barre de navigation du site Web, qui est utilisé pour changer le thème en mode sombre"
+  },
+  "title.alert": {
+    "message": "Alerte",
+    "description": "Le titre du message d'alerte"
+  },
+  "title.placeholderOfSelect": {
+    "message": "Veuillez sélectionner",
+    "description": "L'espace réservé de l'entrée de sélection"
+  },
+  "title.placeholderOfInput": {
+    "message": "Veuillez remplir",
+    "description": "L'espace réservé de l'entrée"
+  },
+  "title.allApplications": {
+    "message": "Toutes les applications",
+    "description": "Le titre de la page pour afficher toutes les applications"
+  },
+  "title.allOrders": {
+    "message": "Toutes les commandes",
+    "description": "Le titre de la page pour afficher toutes les commandes"
+  },
+  "title.orderInfo": {
+    "message": "Informations sur la commande",
+    "description": "Le titre de la page pour afficher les informations sur la commande"
+  },
+  "title.buyMore": {
+    "message": "Acheter plus",
+    "description": "Le titre de la page pour permettre à l'utilisateur d'acheter plus"
+  },
+  "title.distribution": {
+    "message": "Gains de parrainage",
+    "description": "Le titre de la page pour afficher les gains de parrainage, signifie que l'utilisateur peut gagner de l'argent en invitant d'autres à utiliser le service"
+  },
+  "title.distributionHistory": {
+    "message": "Historique de parrainage",
+    "description": "Le titre de la page pour afficher l'historique de parrainage"
+  },
+  "title.invitee": {
+    "message": "Invitant",
+    "description": "Le titre de la page pour afficher l'invitant"
+  },
+  "title.allUsages": {
+    "message": "Historique d'utilisation",
+    "description": "Le titre de la page pour afficher toutes les utilisations du service API"
+  },
+  "title.allCredentials": {
+    "message": "Identifiants",
+    "description": "Le titre de la page pour afficher tous les identifiants, les identifiants sont utilisés pour accéder à l'API"
+  }
+}

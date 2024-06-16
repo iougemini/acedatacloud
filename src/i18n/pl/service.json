@@ -1,0 +1,130 @@
+{
+  "button.learnMore": {
+    "message": "Dowiedz się więcej",
+    "description": "Tekst wyświetlany na przycisku, aby dowiedzieć się więcej o usłudze."
+  },
+  "button.apply": {
+    "message": "Zastosuj teraz",
+    "description": "Tekst wyświetlany na przycisku, aby złożyć wniosek o usługę."
+  },
+  "button.introduction": {
+    "message": "Wprowadzenie do usługi",
+    "description": "Tekst wyświetlany na przycisku, aby zobaczyć wprowadzenie do usługi."
+  },
+  "button.apis": {
+    "message": "Opis API",
+    "description": "Tekst wyświetlany na przycisku, aby zobaczyć opis API."
+  },
+  "button.pricing": {
+    "message": "Cennik",
+    "description": "Tekst wyświetlany na przycisku, aby zobaczyć informacje o cenach."
+  },
+  "field.price": {
+    "message": "Cena",
+    "description": "Cena usługi."
+  },
+  "field.introduction": {
+    "message": "Wprowadzenie",
+    "description": "Wprowadzenie do usługi."
+  },
+  "field.apis": {
+    "message": "API",
+    "description": "API usługi, API to forma usługi online."
+  },
+  "field.proxies": {
+    "message": "Proxy",
+    "description": "Proxy usługi, Proxy to forma usługi online, oznacza proxy HTTP używane do transferu danych."
+  },
+  "message.free": {
+    "message": "Darmowe",
+    "description": "Tekst wyświetlany, gdy usługa jest darmowa, co oznacza, że usługa jest bezpłatna."
+  },
+  "message.around": {
+    "message": "Ok.",
+    "description": "Tekst wyświetlany, gdy cena wynosi około określonej wartości."
+  },
+  "message.welcomeCredits": {
+    "message": "Kredyty powitalne",
+    "description": "Tekst wyświetlany, gdy usługa oferuje kredyty powitalne za darmo."
+  },
+  "message.appliedCount": {
+    "message": "Liczba aplikacji",
+    "description": "Tekst wyświetlany, gdy liczba aplikacji jest zliczana."
+  },
+  "message.indexTitle": {
+    "message": "Twój inteligentny wybór dla usług cyfrowych",
+    "description": "Tytuł strony głównej."
+  },
+  "message.indexSubtitle": {
+    "message": "Wzmocnij swoją pracę i życie standardową doskonałością w usługach.",
+    "description": "Podtytuł strony głównej."
+  },
+  "message.fromPrice": {
+    "message": "Od ",
+    "description": "Tekst wyświetlany przed ceną."
+  },
+  "message.packages": {
+    "message": "Oferujemy różne pakiety kredytów, im więcej pakietów kupisz, tym więcej rabatów otrzymasz.",
+    "description": "Tekst wyświetlany, gdy usługa oferuje pakiety kredytów."
+  },
+  "message.offer": {
+    "message": "Oferta",
+    "description": "Tekst wyświetlany, gdy usługa oferuje promocję."
+  },
+  "message.partnersTitle": {
+    "message": "Zaufani przez wiodących partnerów",
+    "description": "Tytuł sekcji partnerów."
+  },
+  "title.apis": {
+    "message": "API",
+    "description": "API usługi, API to forma usługi online."
+  },
+  "title.proxies": {
+    "message": "Proxy",
+    "description": "Proxy usługi, Proxy to forma usługi online, oznacza proxy HTTP używane do transferu danych."
+  },
+  "title.packages": {
+    "message": "Pakiety",
+    "description": "Pakiety usługi, pakiety służą do zakupu kredytów, na przykład usługa oferuje 3 pakiety, 100$ za 100 kredytów, 200$ za 200 kredytów, 300$ za 300 kredytów."
+  },
+  "unit.credit": {
+    "message": "Kredyt",
+    "description": "Kredyt oznacza wirtualną walutę używaną w usłudze API."
+  },
+  "unit.Credit": {
+    "message": "Kredyt",
+    "description": "Kredyt oznacza wirtualną walutę używaną w usłudze API, jest to forma z kapitalizowaną literą."
+  },
+  "unit.credits": {
+    "message": "Kredyty",
+    "description": "Kredyty oznaczają wirtualną walutę używaną w usłudze API, jest to forma liczby mnogiej."
+  },
+  "unit.Credits": {
+    "message": "Kredyty",
+    "description": "Kredyty oznaczają wirtualną walutę używaną w usłudze API, jest to forma z kapitalizowaną literą i liczby mnogiej."
+  },
+  "unit.call": {
+    "message": "Wywołanie",
+    "description": "Wywołanie oznacza liczbę wywołań usługi API."
+  },
+  "unit.Call": {
+    "message": "Wywołanie",
+    "description": "Wywołanie oznacza liczbę wywołań usługi API, jest to forma z kapitalizowaną literą."
+  },
+  "unit.calls": {
+    "message": "Wywołania",
+    "description": "Wywołania oznaczają liczbę wywołań usługi API, jest to forma liczby mnogiej."
+  },
+  "unit.Calls": {
+    "message": "Wywołania",
+    "description": "Wywołania oznaczają liczbę wywołań usługi API, jest to forma z kapitalizowaną literą i liczby mnogiej."
+  },
+  "unit.MB": {
+    "message": "MB",
+    "description": "MB oznacza megabajt, jednostkę przechowywania informacji cyfrowej."
+  },
+  "unit.GB": {
+    "message": "GB",
+    "description": "GB oznacza gigabajt, jednostkę przechowywania informacji cyfrowej."
+  }
+}

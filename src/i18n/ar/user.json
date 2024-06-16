@@ -1,0 +1,22 @@
+{
+  "field.id": {
+    "message": "معرف المستخدم",
+    "description": "معرف المستخدم"
+  },
+  "field.isVerified": {
+    "message": "تم التحقق منه",
+    "description": "علم يشير ما إذا كان المستخدم موثقًا استنادًا إلى المعلومات الحقيقية أم لا"
+  },
+  "field.nickname": {
+    "message": "اسم مستعار",
+    "description": "اسم مستعار للمستخدم"
+  },
+  "field.username": {
+    "message": "اسم المستخدم",
+    "description": "اسم المستخدم للمستخدم"
+  },
+  "field.dateJoined": {
+    "message": "وقت التسجيل",
+    "description": "الوقت الذي سجل فيه المستخدم"
+  }
+}
